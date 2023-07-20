@@ -1,4 +1,4 @@
-// 
+// switch statement to check vowel or consonant
 # include <iostream>
 using namespace std;
 
